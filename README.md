@@ -1,2 +1,2 @@
 # profcode
-projeto do professor de programas de computadores
+projeto do professor de programação de computadores
